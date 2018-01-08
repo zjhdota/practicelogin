@@ -6,3 +6,5 @@
 python zhihuSpider.py
 ```
 
+# 2018/1/8 更新 #
+知乎更新了，代码失效
